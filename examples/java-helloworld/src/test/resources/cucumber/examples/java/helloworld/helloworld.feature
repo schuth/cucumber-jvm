@@ -25,4 +25,4 @@ Feature: Hello World
   Scenario: Transformation
     Given today is "Dec 6, 2012"
     And I did laundry 2 days ago
-    Then my laundry day must have been "Dec 4, 2012"
+    Then my laundry day must have been "Dec 4, 1950"
